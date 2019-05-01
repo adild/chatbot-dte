@@ -1,0 +1,74 @@
+[
+  {
+     "message":"My CBSE result is declared, however I do not have the Original Marksheet. I have downloaded the result from the CBSE website. Shall it be accepted?"
+    ,"response":" Yes. The Result shall be verified by the Facilitation Center officer from the Official Website of the concerned International / Central/ State Board."
+  },
+  {
+     "message":"Shall be Facilitation Centre(FC) remain open on Sunday's and Holiday?"
+    ,"response":"All FCs shall remain open on all days including holidays and Sundays during 10.00 am to 5.00 p.m. during scheduled period only."
+  },
+  {
+     "message":"What is last date Of Facilitation Center will accept Receipt of Cast Validity Certificate, Tribal Validity Certificate and Non Creamy Layer Certificate ?"
+    ,"response":" Candidate shall submit receipt of Cast Validity Certificate, Tribal Validity Certificate and Non Creamy Layer Certificate, at Facilitation Center Up to 23/06/2018,at 5.00 p.m. "
+  },
+  {
+     "message":"A college situated in Amaravati District and affiliated to Dr. B. A. T. University, Lonere. Which candidates shall be considered eligible for Home University Quota?"
+    ,"response":"The candidate having Home University 'Sant Gadge Baba Amravati University' shall be allotted in Home University Quota (Refer Brochure Rule 4.1)."
+  },
+  {
+     "message":"I belong to OBC category. I have Caste certificate and Non Creamy layer certificate but not the Caste Validity Certificate. Is Caste Validity Certificate Compulsory?"
+    ,"response":" Yes, The Caste/ Tribe Validity Certificate is mandatory to substanciate the claim. If the candidate fails to produce the document, he/she shall be converted to OPEN. "
+  },
+  {
+     "message":"I have completed HSC and Graduation from Maharashtra and born in Maharashtra, but I do not have the domicile certificate. What is my type of Candidature?"
+    ,"response":"The candidate has to produce the Birth Certificate indicating place of Birth in Maharashtra to substantiate the Claim as Maharashtra Type A. If the candidate fails to produce the certificate, candidate can submit the Domicile certificate of Father or Mother and claim as Maharashtra Type B Candidature. The candidate should check Type C / D / E Type.  "
+  },
+  {
+     "message":"Which documents can be considered for Indian Nationality?"
+    ,"response":"The Indian Passport, birth/school leaving/college leaving indicating place of birth in India, Transfer certificate mentioning nationality as Indian OR birth place in India."
+  },
+  {
+     "message":"Is Aadhaar Number mandatory?"
+    ,"response":"no  "
+  },
+  {
+     "message":"Instead of Full Name , I have filled the first name at the time of Registration for CET. How to get it corrected ?"
+    ,"response":"The candidate have to submit the request through the Login to change the name and report to the Facilitation Center along with other Original documents mentioned on the Hall Ticket/Admit Card. The Officer shall verity the details and approved the change in name. "
+  },
+  {
+     "message":"I belong to the Maharashtra Type A candidate. Can I send the documents for Document Verification by Post to FC or State CET Cell?"
+    ,"response":"No, Candidate need to come to FC Center for Document Verification. The applications received by Post/Courier shall not be processed."
+  },
+  {
+     "message":"I have already paid fees twice before, but still it shows payment unpaid."
+    ,"response":"Please pay again. Your amount will be refunded within 10 days. "
+  },
+  {
+     "message":"Is the All India Rank mandatory as it is not available on score card?"
+    ,"response":"ALL INDIA RANK OF THE CANDIDATE is not mandatory field in the form, you have to leave it blank and proceed. The Merit for All India Quota shall be prepared on the percentile score. If the candidate has appeared for multiple exams/ tests eligible for All India Seats, it is the responsibility of the candidate to submit the details of the exam having best percentile score."
+  },
+  {
+     "message":"Is it mandatory to produce the attested copies of the documents?"
+    ,"response":"No. The candidate needs to carry one set of Xerox Copy at Facilitation Center. The FC Officer shall verify from the Original Documents and certify the same. Read the Application carefully. "
+  },
+  {
+     "message":". hello"
+    ,"response":"hi !  !  how are you ?  ?  . "
+  },
+  {
+     "message":"I have obtained 120 out of 200 in the Technical Subject of Maharashtra State Board. Should I convert the marks out of 100 and enter 60 / 100 or 120 out of 200 ?"
+    ,"response":"  Please enter 120 / 200 as the system shall automatically convert to out of 100 and then add to the other compulsory subjects Physics and Mathematics.  "
+  },
+  {
+     "message":"what is your name ? "
+    ,"response":"my name is ishika"
+  },
+  {
+     "message":"no i didn't . you are cute af"
+    ,"response":"really ?  thanks !  ! "
+  },
+  {
+     "message":"I have completed HSC from Board of Intermediate Education, Andhra Pradesh which have marks of 1st Year and 2nd Year. Which marks should be entered out for HSC Marks?"
+    ,"response":"The Board is considering the 1st Year and 2nd Year for HSC and hence add the marks of the subjects, including practical. The system shall convert each marks out of 100 for calculating eligibility."
+  },
+]
