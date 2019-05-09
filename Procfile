@@ -1,1 +1,1 @@
-web: gunicorn tf_idf.py:app
+web: gunicorn tf_idf:app
