@@ -1,15 +1,29 @@
 <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
-      
+<link rel="stylesheet" href="{{ url_for('static', filename='sty.css') }}">
+<div id='bodybox'>
+  <div id='chatborder'>
+    <p id="chatlog7" class="chatlog">&nbsp;</p>
+    <p id="chatlog6" class="chatlog">&nbsp;</p>
+    <p id="chatlog5" class="chatlog">&nbsp;</p>
+    <p id="chatlog4" class="chatlog">&nbsp;</p>
+    <p id="chatlog3" class="chatlog">&nbsp;</p>
+    <p id="chatlog2" class="chatlog">&nbsp;</p>
+    <p id="chatlog1" class="chatlog">&nbsp;</p>
 <!-- Main Input For Receiving Query to our ML -->	
       	<form action="{{ url_for('predict')}}" method="POST">
-			<input type="text" name="namequery">
+			<input type="text" name="namequery" id="chatbox">
 			<button type="submit" class="btn btn-primary">Predict</button>
 			    <p class="card-text"><div class="alert alert-danger" role="alert">
   {{ prediction }}
 
 
 			</form>
-
+  </div>
+  <br>
+  <br>
+</div>
 <!-- Main Input For Receiving Query to our ML --> 
+
+
 
 
