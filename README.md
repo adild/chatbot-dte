@@ -1,4 +1,4 @@
-# retrieval based chatbot
+# Description 
 This is chat bot which is based on term frequency and inverse document frequency and uses cosine similarity to calculate the same.  
 
 TF-IDF, which stands for term frequency — inverse document frequency, is a scoring measure widely used in information retrieval (IR) or summarization. TF-IDF is intended to reflect how relevant a term is in a given document.
